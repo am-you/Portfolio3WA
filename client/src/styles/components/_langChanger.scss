@@ -1,0 +1,62 @@
+@import '../base/breakpoints';
+
+.LangBtnContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.LangBtn {
+    font-weight: bold;
+    position: fixed;
+    background-color: transparent;
+    color: dimgrey;
+    display: flex;
+    justify-content: center;
+    top: 2%;
+    padding: 5px;
+    margin: 1px;
+    width: 30px;
+    height: 30px;
+    z-index: 5;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 30%;
+}
+
+.Fr {
+    left: 1%;
+}
+.En {
+    right: 1%;
+}
+
+@include breakpoint-large-only {
+    .LangBtn {
+        top: 1%;
+        width: 25px;
+        height: 25px;
+    }
+    .Fr {
+        left: 45%;
+    }
+    .En {
+        right: 45%;
+    }
+}
+
+@include breakpoint-medium-down {
+    .LangBtn {
+        top: 1%;
+        border: none;
+        width: 23px;
+        height: 23px;
+    }
+    .Fr {
+        left: 0;
+    }
+    .En {
+        right: 0;
+    }
+}

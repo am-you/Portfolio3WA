@@ -1,0 +1,88 @@
+{
+    "Title": {
+        "1": "Acceuil",
+        "2": "À propos",
+        "3": "Portfolio"
+    },
+    "Landing": {
+        "1": "Hello world, c'est Amine!",
+        "2": "Full Stack Dev | Enthousiaste pour l'Open-Source  | Dev curieux passionné par Js"
+    },
+    "About": {
+        "p": {
+            "title1": "À propos de moi",
+            "title2": "le développement web & moi",
+            "part1": {
+                "sentence1": "J'ai été étudiant de beaucoup de discipline, traducteur, libraire, assisstant dans une PME de marketing sportif, artiste, barman, manager, technicien support réseaux et systéme etc ... Maintenant je suis développeur et j'aime beaucoup ce que je fais.",
+                "sentence2": "Chacune de ces expériences m'a beaucoup apporté en terme de connaissances, savoir faire, contacts et bien plus. Elles m'ont permiss de façonner le développeur et la personne que je suis aujourd'hui.",
+                "sentence3": "Je maîtrise 4 langues à l'oral comme à l'écrit, si on y ajoute les langages informatiques le compteur grimpe un peu plus.",
+                "sentence4": "Je pense que les langues parlées ne sont pas si différentes des langages informatiques.",
+                "sentence5": "Depuis tout petit je démonte, répare, assemble et monte de toutes piéces des ordinateurs, je maîtrise la partie matériel d'un ordinateur.",
+                "sentence6": "Aujourd'hui c'est à la partie software que je prête toute mon attention. J'ai trouvé dans le code et la programmation une grande passion. L'apprentissage y est constant. Non seulement j'aime le code mais aussi apprendre.",
+                "sentence7": "Quand je ne suis pas devant mon PC en train de coder, j'aime faire du sport, les jeux de sociétés, lire, dessiner, la nature en général et tout se qui tourne autour de l'informatique et la technologie."
+
+            },
+            "part2": {
+                "sentence1": "Je suis développeur full stack freelance à mon compte depuis un moment en France. Je suis à la recherche d'opportunitées dans la région Rhône Alpes. J'ai toujours été attiré par le code, aujourd'hui je code à temps plein. J'aime résoudre des problémes et le code et un outil pour cela.",
+                "sentence2": "J'ai commencé serieusement mon parcours de developpeur fin 2018. J'ai repris mes anciens cours d'LEA où j'étais en options informatique (JS, SQL, PHP) de 2008-2012 ainsi que les ressources et docs disponibles sur internet pour m'autoformer et apprendre d'avantage.",
+                "sentence3": "Ensuite j'ai rejoint un parcours de développeur intégrateur web à la 3WA academy à Grenoble en 2019 afin de perfectionner et apprendre dans un contexte plus professionnel et encadré par des formatteurs pro du métier. Depuis je code et évolus constamment.",
+                "sentence4": "J'aime Linux et tout ce qui est open source, l'UI et UX design, le développement front et le back, les solutions cloud, et la sécurité informatique.",
+                "sentence5": "Mon langage de prédilection est le Javascript. Même si j'y préte la majeure partie de mon temps j'expérimente des choses avec Python et j'apprends Rust (je suis tomber sous le charme) en parallèle (célà vas prendre du temps pour arriver à un niveau de maîtrise mais petit à petit ...).",
+                "sentence6": "Je reste en contact avec la communauté et garde en permanence un œil sur l'évolution du domaine du web.",
+                "sentence7": "Je suis en cours de finalisé une rubrique Blog où je vais mettre toutes mes notes sur les pratiques web et la programmation, sur Linux, Html, Css/Sass, PHP, Apache2, Sql, les frameworks Js, et bien plus.",
+                "sentence8": "Bien que le contenu soit varié, je focaliserai plus sur Js, React, Node, Mongodb, la traduction d'un site web et mon expérience personnelle ainsi que les meilleures pratiques.",
+                "sentence9": "J'ai conçu ce site de A à Z, c'est à dire en utilisant React, Jsx, Node, Sass, Express, Json etc... et beaucoup de café bien sûr. Ayant récemment finis d'apprendre Jest je vais bientôt tester le tout: unit testing/integration testing/UI testing avec pour m'exercer."
+            }
+        },
+        "cv": {
+            "comment1": "Ambitieux j'aime les challenges.",
+            "comment2": "Mon large éventail de compétences est en évolution constante.",
+            "exp1": "Développeur Full-Stack freelance à 127.0.0.1.",
+            "exp2": "Technicien de maintenance et supervision réseaux et systémes informatique à Spie ICS.",
+            "exp3": "Responsable Barman au Champollion Bar à Grenoble.",
+            "exp4": "Libraire à Culture & Co à Abou Dhabi.",
+            "exp5": "Vacataire au service de visas au consulat à l'Ambassade de France à Abou Dhabi durant l'été de Mai à Août.",
+            "edu1" : "Formation Développeur intégrateur en réalisation d'application web à la 3W Academy Grenoble.",
+            "edu2" : "Esma Montpellier école d'arts appliqués",
+            "edu3" : "Licence en LEA (Anglais/Espagnol/Arabe option parcours informatique) entre Sorbonne Paris Abou Dhabi et Stendhal Grenoble.",
+            "edu4" : "Baccalauréat ES au Lycée Louis Massignon à Abou Dhabi.",
+            "hobbies" : "'Lire', 'Escalade', 'Foot', 'Voyage', 'Créer', 'Dessiner/Peindre', 'Nager', 'Jeux de société/Échecs', 'Arts Martiaux', ... ",
+            "note": "Remarque: J'ai réalisé ce Cv pour ressembler au thème d'un IDE et à la syntaxe de React, pour un Cv en format Pdf téléchargeable voir le bas gauche de cette page."
+        }
+    },
+    "Portfolio": {
+        "desc1": "React, Node, Express, Nodemailer, SASS, i18n, ReactRouter, Suspense, Webpack, Heroku, ... Autrement dis le code source de ce simple magnifique site. PROJET CONTINU.",
+        "desc2": "Expérimentation avec symfony guard, webpack encore, react hooks, heroku etc ... afin de se familiariser avec l'implémentation de Symfony/React en prod. PROJET CONTINU.",
+        "desc3": "Simple ChatApp en temps réel avec React Hooks, SocketIo, NodeJs, Express, ReactRouter, Css, Heroku ... Elle est un minimum responsive et je suis en train de finaliser quelques Todos. PROJET CONTINU.",
+        "desc4": "Une application chat en ligne de commande CLI avec NodeJs, Express, et les instances de Pusher/ChatKit.",
+        "desc5": "WPM ou à quelle vitesse pouvais vous taper des citations aléatoires. Avec React Hooks. (J'essaye de trouver un moyen pour mieux adapter le clavier mobile). PROJET CONTINU.",
+        "desc6": "Simple React Hooks App pour manipulation CRUD; Créer Lire Modifier Supprimer.",
+        "desc7": "Comme le titre l'indique ceci est une appWeb simple faite avec React et qui transforme le markdown en html.",
+        "desc8": "Angular FrontEnd skill test, évaluation pour entretien avec context et contraintes spécifiques, travailer avec une API etc...",
+        "desc9": "Mon formulaire, Login, authentification Symfony/Auth0 perso, réutilisable avec Class/Type/Controller Composer Security twig yaml etc... PROJET CONTINU.",
+        "desc10": "Mon formulaire, Login, authentification Symfony/Guard SQL perso, réutilisable avec Class/Type/Controller Composer Security twig yaml etc... PROJET CONTINU.",
+        "desc11": "La Page 404 de ce site. Pas encore mobile/friendly. Un jeu retro avec Js Canvas (que j'apprécie beaucoup). Fait à l'aide d'un cours et adapter à React et au lifecycle/Methods par moi même.",
+        "desc12": "Simple Application Todo list avec MongoDb."
+    },
+    "Contact": {
+        "firstName": "Prénom",
+        "lastName": "Nom",
+        "Subject": "Objet",
+        "Send": "Envoyer",
+        "required": "Tout les champs sont requis",
+        "Modal": {
+            "message": "Message Envoyé",
+            "thanks1": "Merci",
+            "thanks2": "On reviens vers vous au plus vite",
+            "close": "Fermer"
+        }
+    },
+    "Error": {
+        "header": "ERREUR 404 Vous êtes perdus dans l'espace",
+        "controls": "pour TIRER",
+        "controls2": "pour BOUGER",
+        "redirect": "Retourner à la page principale",
+        "lost": "Vous êtes perdus dans l'ESPACE",
+        "mess": "*** Si vous ouvrez cette page sur un appareil plus large et avec un clavier un jeu vous attends ^^ ***"
+    }
+}

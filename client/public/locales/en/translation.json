@@ -1,0 +1,88 @@
+{
+    "Title": {
+        "1": "Home",
+        "2": "About",
+        "3": "Portfolio"
+    },
+    "Landing": {
+        "1": "Hello world, it's Amine!",
+        "2": "Full Stack Dev | Open-Source Enthusiast | Curious Passionate Js Dev"
+    },
+    "About": {
+        "p": {
+            "title1": "About Me",
+            "title2": "Me & programming",
+            "part1": {
+                "sentence1": "I have been a student of many majors, a translator, a librarian, a small sports marketing related company assistant, an artist, a bartender, a manager, an IT tech etc... Now am a developer and I quite like it.",
+                "sentence2": "Each one of these experiences offered me quite a lot in terms of knowledge, skills, contacts and more. They helped shape the developer and person I am today.",
+                "sentence3": "I am fluent in 4 languages, but if you add programming languages into the count the number goes up.",
+                "sentence4": "I like to think that spoken languages and programming languages are very similar.",
+                "sentence5": "Since I was a young boy I have been tearing apart, fixing and building PCs from scratch. My knowledge on PC hardware is top notch.",
+                "sentence6": "Now am focusing on the software part and love writing code, learning about it, and building websites or pieces of software. And since you always learn more I love it.",
+                "sentence7": "When I am not in front of my Computer coding, I like: sports, board games, reading, drawing, nature in general and everything about computers and technology."
+
+            },
+            "part2": {
+                "sentence1": "I am a full stack freelance developer based in France, am currently looking for opportunities in Rône Alpes. I have always liked coding. I like solving problems and coding is a tool for that.",
+                "sentence2": "I started my developer journey seriously in 2018 where I took back my courses on Js SQL and Php from the LEA major I was on between 2008 and 2012 where I had a computer complementary course, and what the internet offers as resources for learning more.",
+                "sentence3": "I then joined a developer course with the 3WA academy in Grenoble in 2019, to perfect the craft in a more monitored environment. From there on I have been coding/learning non stop and I am still.",
+                "sentence4": "I am passionate about Linux, Open source software in general, UI, both front and back web development, cloud solutions, and security.",
+                "sentence5": "I like Javascript and everything web related. It is my to go language but I play around with Python and I am learning Rust (I fell in love) on the side too (it will take time to get to an expert level but slowly getting there ...).",
+                "sentence6": "I stay close to the community and try to keep tabs with the pace at which the web is evolving.",
+                "sentence7": "Currently building a Blog to attach to this website where I will put my notes about some web related stuff such as linux, Html, Css/Sass, Php, Apache2, Sql, Js Frameworks and more.",
+                "sentence8": "Although content might focus on Js, React, Node, Mongodb, internationalization, my ongoing learning experience, best practices etc ...",
+                "sentence9": "I built this site from scratch. By scratch, I mean using React, Jsx, Node, Sass, Express, Json ... and coffee of course. Having learned Jest and unit testing/integration testing/UI testing recently I will test the whole app for practice soon"
+            }
+        },
+        "cv": {
+            "comment1": "I'm ambitious and love new challenges.",
+            "comment2": "My vast variety of skills is continuously expanding.",
+            "exp1": "Freelance Full-Stack Developer at 127.0.0.1.",
+            "exp2": "IT networks and systems Technical support at Spie ICS.",
+            "exp3": "Head Bartender at Champollion Bar in Grenoble.",
+            "exp4": "Librarian at Culture & Co in Abu Dhabi.",
+            "exp5": "On summers during this period (From May to August) worked at the french consulate at the visa section in Abu Dhabi UAE.",
+            "edu1" : "3W Academy developer course in integration and production of web apps in Grenoble.",
+            "edu2" : "Student at ESMA Montpellier in applied arts and 3D modeling.",
+            "edu3" : "Degree in Applied Foreign Languages 'LEA' (English-Spanish-Arabic with computer science as a major) done in between Sorbonne Abu Dhabi and Stendhal Grenoble.",
+            "edu4" : "French economic and social high school 'Baccalauréat' at Lycée Louis Massignon in Abou Dhabi.",
+            "hobbies" : "'Reading', 'Climbing', 'Soccer', 'Traveling', 'Building stuff', 'Drawing/Painting', 'Swimming', 'Board-Games/Chess', 'Martial arts', ... ",
+            "note": "Note: this is something I had fun building to look like an IDE and mimic React syntax. CV available for grab in proper PDF at the bottom left of this page."
+        }
+    },
+    "Portfolio": {
+        "desc1": "React, Node, Express, Nodemailer, SASS, i18n, ReactRouter, Suspense, Webpack, Heroku, ... In other words this awesome website source code. ONGOING.",
+        "desc2": "Experimenting with symfony guard, webpack encore, react hooks, heroku and more, to get the hang on implementing Syfony and React in production. ONGOING",
+        "desc3": "Simple live ChatApp with React Hooks, SocketIo, NodeJs, Express, ReactRouter, Css, Heroku ...It's a minimum responsive and still working on some Todos. ONGOING.",
+        "desc4": "An Awesome Command Line Interface Chatapp using Node, Express, Pusher/Chatkit",
+        "desc5": "WPM or How fast can you type random quotes, built with React Hooks. (Am trying to resolve the Mobile/touch keyboard).",
+        "desc6": "Simple React Hooks CRUD; Create Read Update Delete App.",
+        "desc7": "As the title suggest this is a simple markdown to html webapp made with react.",
+        "desc8": "Angular FrontEnd Job skill test/eval with specific context and demands on working with an API... Thought I should share it.",
+        "desc9": "My personal Symfony/Auth0 secure reusable Login authentification form, User Class/Type/Controller Composer Security etc... ONGOING",
+        "desc10": "My personal Symfony/Guard SQL secure reusable authentification form, User Class/Type/Controller Composer Security twig yaml etc... ONGOING",
+        "desc11": "This website 404 page although it is not mobile friendly yet, it is a nice retro game made with js, canvas within a course and later adapted to React and it's lifecycle/Methods by me.",
+        "desc12": "Simple MongoDb CRUD Todo app."
+    },
+    "Contact": {
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "Subject": "Subject",
+        "Send": "Send",
+        "required": "All fields are required",
+        "Modal": {
+            "message": "Message Sent",
+            "thanks1": "Thank you",
+            "thanks2": "We will get back to you ASAP",
+            "close": "Close"
+        }
+    },
+    "Error": {
+        "header": "404 NOT FOUND You are Lost in SPACE",
+        "controls": "to SHOOT",
+        "controls2": "to MOVE",
+        "redirect": "Go Home",
+        "lost": "You are Lost in SPACE",
+        "mess": "*** If you open this page in a non mobile browser with a keyboard a game is waiting for you there ^^ ***"
+    }
+}

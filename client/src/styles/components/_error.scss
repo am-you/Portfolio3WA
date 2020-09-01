@@ -1,0 +1,130 @@
+@import '../base/breakpoints';
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+canvas {
+    display: block;
+    background-color: #000000;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.image404 {
+    min-height: 100%;
+    min-width: 1024px;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.canvasCont {
+    color: white;
+}
+
+.current-score {
+    left: 20px;
+}
+
+.top-score {
+    right: 20px;
+}
+
+.score {
+    display: block;
+    position: absolute;
+    top: 7%;
+    z-index: 1;
+    font-size: 15px;
+}
+
+.controls {
+    display: block;
+    position: absolute;
+    top: 15px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    z-index: 1;
+    font-size: 11px;
+    text-align: center;
+    line-height: 1.6;
+}
+
+.endgame{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 16px;
+    z-index: 1;
+    text-align: center;
+}
+
+.erMessage {
+    font-style: oblique;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-size: larger;
+}
+
+.erMessageSmallScr {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 16px;
+    z-index: 1;
+    text-align: center;
+    font-size: 33px;
+    color: #ffffff;
+}
+
+.erMessageSmallScr i {
+    font-size: 22px;
+}
+
+.erMessageSmallScr span {
+    font-size: 11px;
+}
+
+#goHome {
+    display: block;
+    color: #ffffff;
+    font-weight: bold;
+    z-index: 2;
+    position: absolute;
+    top: 11%;
+    left: 37.5%;
+    background: transparent;
+    cursor: pointer;
+    margin-top: 10px;
+}
+#endgameBtn{
+    background-color: transparent;
+    color: dimgrey;
+    font-size: 15px;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+@include breakpoint-large-down {
+    .canvasCont  {
+        display: none;
+    }
+}
+
+@include breakpoint-xlarge-up {
+    .image404, .image404Ctn {
+        display: none;
+    }
+}

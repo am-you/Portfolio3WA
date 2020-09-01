@@ -1,0 +1,86 @@
+@import '../base/breakpoints';
+
+.contact-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 0;
+    margin: 5% 15%;
+
+    .form-wrapper {
+        max-width: 100%;
+        max-height: 100%;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: right;
+        padding: 20px 40px;
+        border-radius: 5px;
+        box-shadow: 0 1px 3px dimgrey;
+        background-color: transparent;
+        box-sizing: border-box;
+    }
+
+    .errorMessage {
+        color: red;
+        font-size: 0.5em;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .firstName, .lastName, .email, .message, .subject {
+        margin-bottom: 15px;
+        width: 100%;
+    }
+
+    .sendMessage {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        #submit {
+            background-color: transparent;
+            color: dimgrey;
+            cursor: pointer;
+            &:hover {
+                background-color: #2f70dd;
+                color: #ffffff;
+            }
+        }
+
+        .modalButton {
+            margin: 10px auto;
+            display: flex;
+            flex: auto;
+            justify-content: center;
+            border: none;
+            background-color: firebrick;
+            color: white;
+            padding: 5px;
+        }
+
+        .modalP {
+            color: dimgrey;
+            padding: 25px;
+            font-size: small;
+        }
+
+        .requis {
+            font-size: 10px;
+            font-style: italic;
+            padding: 10px;
+            color: firebrick;
+        }
+    }
+
+    @include breakpoint-medium-down {
+        .wrapper {
+            max-height: 100%;
+            width: 100%;
+            padding: 0;
+            margin: 0;
+        }
+    }
+}

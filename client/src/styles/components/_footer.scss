@@ -1,0 +1,71 @@
+@import '../base/breakpoints';
+@import '../base/variables';
+
+footer {
+    padding: 30px 0;
+    font-size: 0.625rem;
+
+    .content-wrp {
+        height: 35px;
+        max-width: $width;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-grow: 2;
+    }
+    .madeBy {
+        text-align: center;
+        color: dimgrey;
+        margin-right: 5px;
+    }
+
+    .madeBy span {
+        color: red;
+    }
+
+    .pdfIcon {
+        margin-left: 5px;
+        padding: 10px;
+    }
+
+    .social-wrp {
+        display: flex;
+        flex: 0 1 auto;
+        flex-direction: row;
+        justify-content: center;
+
+        a {
+            display: flex;
+            flex-direction: column-reverse;
+            justify-content: center;
+            margin: 0 1px;
+            padding: 10px;
+            color: dimgrey;
+        }
+
+        svg {
+            padding: 3px;
+            &:hover {
+                fill: #2f70dd;
+            }
+        }
+
+
+    }
+
+    @include breakpoint-large-down {
+        .social-wrp a {
+            padding: 5px;
+        }
+        .pdfIcon {
+            width: 40px;
+            height: 40px;
+            padding: 5px;
+        }
+        .madeBy {
+            font-size: 7px;
+        }
+    }
+
+}
