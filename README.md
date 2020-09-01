@@ -38,7 +38,9 @@ Projet 1: Un CRUD basic avec React focalisant sur l'usage de HOOKS.
 
 Projet 2: Un WPM ou Words per minute (mot par minute) en React aussi focalisant sur l'usage des Hooks.
 
-Projet 3: Pour résumer J'ai pris le projet 2 et le 5 et je les ai fusionné; un site déployé ou le back et en php Symfony avec une authentification avec symfony guard et une gestion utilisateur avec l'ORM doctrine pour la BD SQL déployé sur heroku avec la BD SQL comme Addon (ClearDBSQL est le nom du addon), React en front et webpack, Css etc...
+Projet 3: Pour résumer J'ai pris le projet 2 et le 5 et je les ai fusionné pour me familiarisé à l'usage de symfony avec React; un site déployé ou le back et en php Symfony avec une authentification avec symfony guard/twig et une gestion utilisateur avec l'ORM doctrine pour la BD SQL déployé sur heroku avec la BD SQL comme Addon (ClearDBSQL est le nom du addon), React en front et webpack, Css etc...
+
+il faut s'enregistrer dans Register comme nouvel utilisateur ensuite on a accés au wpm pour tester sa vitesse de frappe
 
 Je laisse un dump SQL informatif ici sur cette repo j'éspére que ça vas pas confondre. il est au nom de user.sql
 
