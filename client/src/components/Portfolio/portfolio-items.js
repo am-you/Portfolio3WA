@@ -12,7 +12,7 @@ export default [{
                 <Trans i18nKey="Portfolio.desc1"/>
             </p>
             <p className='portfolio-item__links'>
-                <a target="_blank" rel="noopener noreferrer" href="https://github.com/am-you/Portfolio-Blog">GitHub</a>
+                <a target="_blank" rel="noopener noreferrer" href="https://github.com/am-you/Portfolio3wa">GitHub</a>
             </p>
         </article>
     )
