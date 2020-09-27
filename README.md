@@ -1,5 +1,13 @@
 # Portfolio3wa
 
+>>> EDIT : Vous m'avez demandé de vous dire sur quel projet me juger et pour quelle techno. Voici ma réponse :
+> 
+>Pour JS, CSS et HTML le projet principal qui est le portfolio lui-même. Je vous demande de bien prendre en compte malgré le fait que c'est un environnement react tout le js par exemple la validation du formulaire 'formvalidation'  de contact (faite à la main sans les 'ready to use' technique de react ) dans le composant contact et l'usage d'AXIOS = AJAX en POST, la POO, NPM, et toutes les animations etc. Aussi pour le HTML Les best practice sont respectés j'ai enlevés quelques div inutiles et beaucoup de balise sémantiques y sont présentes. et il est complétement SEO friendly 
+>
+>Pour PHP et SQL le projet 3 'React Symfony Experiment' + et le projet 11 'CRUD PHP PDO SQL' pour du php natif.
+>
+>Merci en avance
+
 https://www.amyou.dev/ :
 
     Le front est en React.
@@ -31,8 +39,10 @@ Les Petits projets:
     Chat app.
     MongoDb TodoApp.
     React Hooks CRUD.
+    CRUD PHP PDO SQL.
 
 Pour tous ces projets un liens vers le code source sur github est fournis; pour ceux qui sont déployés parmis eux un second lien est fournis vers une démo.
+
 
 Projet 1: Un CRUD basic avec React focalisant sur l'usage de HOOKS.
 
@@ -57,6 +67,8 @@ Projet 8: Une App Chat complètement responsive avec React Node Express SocketIO
 Projet 9: Une Todo app très basique très simple mais qui marche très bien avec Node et MongoDB (noSql).
 
 Projet 10: Un Crud avec React focalisant aussi sur l'usage de Hooks.
+
+Projet 11: Un CRUD avec PHP PDO SQL et déployer avec heroku ou j'utilise ClearDB pour la base de donnée.
 
 Je laisse aussi un audit lighthouse de google la seule raison pour laquelle je n'obtient pas 100% en performance étant le protocole HTTP/2 qui est disponible sur heroku mais très coûteux.
 
