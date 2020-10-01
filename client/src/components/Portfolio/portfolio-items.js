@@ -188,20 +188,4 @@ export default [{
             </p>
         </article>
     )
-},{
-    name: 'PHP PDO/SQL CRUD',
-    render: (
-        <article className='portfolio-item'>
-            <h3 className='portfolio-item__title'>
-                PHP PDO/SQL CRUD
-            </h3>
-            <p className='portfolio-item__desc'>
-                PHP PDO/SQL CRUD
-            </p>
-            <p className='portfolio-item__links'>
-                <a target="_blank" rel="noopener noreferrer" href="https://github.com/am-you/php-crud">GitHub</a>
-                <a target="_blank" rel="noopener noreferrer" href="https://phppdocrud.herokuapp.com/">Demo</a>
-            </p>
-        </article>
-    )
 }]
