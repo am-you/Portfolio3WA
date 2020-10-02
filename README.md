@@ -1,6 +1,10 @@
 # Portfolio3wa
 
 >>> EDIT : Veuillez effacer vos coockies pour acceder aux modifications.
+Rappel du bareme RNCP Validation des dossiers
+●Validation minimum pour l’intégration (HTML et CSS) :○OK pour les deux○LÉGER & BIEN
+●Validation minimum pour le développement (JS, PHP et SQL) :○OK pour les trois○un BIEN et deux LÉGER
+●Une matière en inacceptable et le dossier est ajourné
 >Merci en avance
 
 https://www.amyou.dev/ :
