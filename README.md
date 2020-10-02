@@ -1,11 +1,6 @@
 # Portfolio3wa
 
->>> EDIT : Vous m'avez demandé de vous dire sur quel projet me juger et pour quelle techno. Voici ma réponse :
-> 
->Pour JS, CSS et HTML le projet principal qui est le portfolio lui-même. Je vous demande de bien prendre en compte malgré le fait que c'est un environnement react tout le js par exemple la validation du formulaire 'formvalidation'  de contact (faite à la main sans les 'ready to use' technique de react ) dans le composant contact et l'usage d'AXIOS = AJAX en POST, la POO, NPM, et toutes les animations etc. Aussi pour le HTML Les best practice sont respectés j'ai enlevés quelques div inutiles et beaucoup de balise sémantiques y sont présentes. et il est complétement SEO friendly 
->
->Pour PHP et SQL le projet 3 'React Symfony Experiment' + et le projet 11 'CRUD PHP PDO SQL' pour du php natif.
->
+>>> EDIT : Veuillez effacer vos coockies pour acceder aux modifications.
 >Merci en avance
 
 https://www.amyou.dev/ :
